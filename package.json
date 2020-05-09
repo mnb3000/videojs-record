@@ -1,7 +1,7 @@
 {
-  "name": "videojs-record",
+  "name": "videojs-record-dealiased",
   "version": "3.11.0",
-  "description": "A video.js plugin for recording audio/video/image files.",
+  "description": "(fork) A video.js plugin for recording audio/video/image files.",
   "author": "Collab",
   "license": "MIT",
   "readmeFilename": "README.md",
